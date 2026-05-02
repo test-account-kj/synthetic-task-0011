@@ -1,0 +1,2 @@
+# Fixes
+- Login redirect bug
