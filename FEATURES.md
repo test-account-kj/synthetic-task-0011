@@ -1,0 +1,2 @@
+# Features
+- Search bar
